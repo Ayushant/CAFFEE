@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .nav{
+    background-image: url(../img/pexels-emre-can-acer-2079438.jpg);
+} */
+.img1{
+    width: 100%;
+   height: 500px;
+}
+.child{
+    /* border: 2px solid black; */
+    background-color: white;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ed1{
+    margin-top: 15px;
+}
+
+.ed{
+    color: brown;
+    /* margin-top: 10px; */
+    padding: 20px;
+    /* font-style: ; */
+    /* tesize: 20px; */
+}
+
+.menu{
+          
+    /* align-content: center; */
+    /* margin: 0 auto; */
+    
+    margin-top: 27px;
+    margin-left: 10px;
+    
+}
+
+.read{
+    background-color: wheat;
+    width: 100%;
+    /* height: 2000px; */
+}
+
+/* .head{
+    background-image: url(../img/pexels-emre-can-acer-2079438.jpg);
+    height: 550px;
+    width: 100%;
+} */
+
+.logo{
+    color: black;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.head1{
+   
+    /* display: none; */
+    /* display: flex; */
+    text-decoration: none;
+    /* margin-top: 20px; */
+}
+
+/* .inner{
+    display: flex;
+    position: relative;
+    top: 35px;
+    
+    justify-content: space-evenly;
+    
+    list-style: none;
+    
+}
+
+.inner a{
+    color: wheat;
+  
+} */
+
+
+
+.mid{
+    background-color: wheat;
+    height: 180px;
+    width: 100%;
+    /* margin-top: 20px; */
+}
+
+.mid1{
+    /* <button type="button" class="btn btn-primary">Primary</button> */
+    background-color: wheat;
+    /* height: 1600px; */
+    /* width: 100%; */
+    /* margin-top: -5px; */
+
+    /* margin: 0 auto; */
+}
+
+.midtext{
+    position: relative;
+    top: 35px;
+    margin-left: 32px;
+}
+
+.midtext1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+ /* .midtext2  {
+    font-family: fantasy;
+    position: relative;
+    top: 25px;
+    margin-left: 12px;
+    font-size: 35px;
+     gap: 20px; *
+}  */
+
+.hr{
+    /* display: flex; */
+    /* justify-content: center; */
+    position: relative;
+    top: 20px;
+    /* margin-left: 25px; */
+}
+
+
+.down{
+    background-image: url(../img/pexels-emre-can-acer-2079438.jpg);
+    width: 100%;
+    height: 600px;
+}
+
+ .down1{
+    position: relative;
+    top: 25px;
+     /* margin-top: 20px;  */
+}
+
+
+.down2{
+    position: relative;
+    top: 20px;
+     /* left: 20px;  */
+    /* margin-left: 20px; */
+} 
+
+.tx{
+    position: relative;
+    top: 40px;
+}
+
+.but{
+    /* position: relative; */
+    margin-top: 45px;
+}
+
+
+.ic{
+      background-color: white;
+      width: 100%;
+      /* height: 1150px; */
+}
+
+.last{
+    background-color: white;
+    /* height: 200px; */
+    width: 100%;
+
+}
+.rout{
+    margin-top: 60px;
+}
+
+.icc{
+    background-image: url(../img/pexels-emre-can-acer-2079438.jpg);
+    /* background-color: tan; */
+}
+
+.foot{
+    /* background-color: white; */
+    background-image: url(../img/pexels-emre-can-acer-2079438.jpg);
+    width: 100%;
+    height: 100px;
+}
+
+.icon{
+    position: relative;
+    top: 35px;
+    /* margin-top: 35px; */
+}
